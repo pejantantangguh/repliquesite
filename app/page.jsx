@@ -23,6 +23,9 @@ export default function Home() {
                 <p>
                   Our activites are Sunday Service, Sunday School, and Prayer Night
                 </p>
+                <p>
+                  Sunday service: Sunday 10.30 AM
+                </p>
               </div>
               <dl className="mt-10 grid grid-cols-2 gap-x-10 gap-y-6 sm:mt-16 sm:gap-x-24 sm:gap-y-10 sm:text-center lg:auto-cols-auto lg:grid-flow-col lg:grid-cols-none lg:justify-start lg:text-left">
                 <div>
