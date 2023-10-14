@@ -15,7 +15,8 @@ export const Navbar = () => {
                 </div>
                 <div className="text-xs sm:text-base mt-4 font-mono mx-auto flex items-center gap-4 px-4">
                     3/35 Manilla St, East Brisbane QLD 4169 <br />
-                    Contact us - 0433 966 951 (Bebe)
+                    Contact us - 0433 966 951 (Bebe) <br />
+                    Email us - church@repliquebrisbane.org
                 </div>
                 <div className="sm:mt-10 sm:flex lg:mt-0 lg:grow lg:basis-0 lg:justify-end">
                     <Link href="https://maps.app.goo.gl/zQ9mRAQDycTnApAZ9" 
