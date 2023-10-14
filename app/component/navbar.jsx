@@ -7,7 +7,7 @@ export const Navbar = () => {
             <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 flex flex-wrap items-center justify-center sm:justify-between lg:flex-nowrap">
                 <div className="mt-10 lg:mt-0 lg:grow lg:basis-0">
                     <Link href="/">
-                        <Image src="/logo-REPLIQUE-FINAL.png"
+                        <Image src="/LOGO-REPLIQUE-FINAL.png"
                             alt='replique logo here'
                             width={125}
                             height={125} />
