@@ -3,10 +3,9 @@
 @tailwind utilities;
 
 :root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
+  --foreground-rgb: 56, 31, 22;
 }
+
 
 @media (prefers-color-scheme: dark) {
   :root {
@@ -17,11 +16,20 @@
 }
 
 body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  color:#2563eb;
+}
+.primaryColor-1 {
+  color:#a71b22;
+}
+
+.primaryColor-2 {
+  color:#2563eb;
+}
+
+.primaryColor-3 {
+  color: #381f16;
+}
+
+.bg-replique {
+  background-color:rgb(238 242 255 / 1 );
 }
