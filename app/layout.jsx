@@ -1,4 +1,4 @@
-import './globals.css'
+import '@/styles/global.css';
 import { Inter } from 'next/font/google';
 import { Navbar } from './component/navbar';
 import { JumboTron } from './component/jumbotron';
