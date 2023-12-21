@@ -1,5 +1,5 @@
 import '@/styles/global.css'
-import { Navbar } from "@/app/component/navbar";
+import { Navbar } from '@/app/component/navbar';
 
 export default function christmas2023() {
     return (
