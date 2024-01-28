@@ -1,6 +1,7 @@
 import '@/styles/global.css';
 import { Inter } from 'next/font/google';
 import { Navbar } from './component/navbar';
+import { JumboTron } from './component/jumbotron';
 
 const inter = Inter({ subsets: ['latin'] })
 const bodyLayout = ""
@@ -18,6 +19,7 @@ export default function RootLayout({ children }) {
         <Navbar />
         <div className='clear-both'></div>       
         {children}
+        <JumboTron />
       </body>
     </html>
   )
