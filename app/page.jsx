@@ -29,11 +29,10 @@ export default function Home() {
               </div>
               <dl className="mt-10 grid grid-cols-2 gap-x-10 gap-y-6 sm:mt-16 sm:gap-x-24 sm:gap-y-10 sm:text-center lg:auto-cols-auto lg:grid-flow-col lg:grid-cols-none lg:justify-start lg:text-left">
                 <div>
-                  <dt className="font-mono text-sm text-blue-600">About Us</dt>
-                  <dd className="mt-0.5 text-2xl font-semibold tracking-tight text-blue-900">Our pastors</dd>
+                  <dt className="font-mono text-sm text-blue-600">Giving</dt>
+                  <dd className="mt-0.5 text-2xl font-semibold tracking-tight text-blue-900">Pay Id</dd>
                   <dt className="font-mono text-xs text-blue-600">
-                    <Link href="#
-                    " > Coming soon </Link>
+                    giving@repliquebrisbane.org
                   </dt>
                 </div>
                 <div>
