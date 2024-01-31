@@ -18,6 +18,10 @@ const navLinks = [
         name: "What's On",
         href: "/whatson",
     },
+    {
+        name:"Melbourne Ministry",
+        href:"http://www.repliqueministry.org/"
+    }
 ]
 
 export const Navbar2 = () => {
