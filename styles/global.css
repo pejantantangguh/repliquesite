@@ -37,6 +37,6 @@ a {
   cursor: pointer;
 }
 
-p {
+p,li {
   color: rgb(35 56 118 / 1)
 }

@@ -28,7 +28,6 @@ export default function RootLayout({ children }) {
             </div>
           </div>
         </main>
-        <JumboTron />
       </body>
     </html>
   )
