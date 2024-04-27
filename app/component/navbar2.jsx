@@ -15,10 +15,6 @@ const navLinks = [
         href: "/about",
     },
     {
-        name: "What's On",
-        href: "/whatson",
-    },
-    {
         name:"Melbourne Ministry",
         href:"http://www.repliqueministry.org/"
     }

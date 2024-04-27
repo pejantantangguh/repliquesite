@@ -29,12 +29,11 @@ export default function Home() {
                   </dt>
                 </div>
                 <div>
-                  <dt className="font-mono text-sm text-blue-600">Prayer Night</dt>
-                  <dd className="mt-0.5 text-2xl font-semibold tracking-tight text-blue-900">Zoom details</dd>
+                  <dt className="font-mono text-sm text-blue-600">You can reach us via</dt>
+                  <dd className="mt-0.5 text-2xl font-semibold tracking-tight text-blue-900">Contact details</dd>
                   <dt className="font-mono text-xs text-blue-600">
-                    Meeting Id : <br className="md:hidden"/> 896 3792 1078 <br />
-                    Pwd: 658581 <br />
-                    Every Wednesday at 7.30pm <br />
+                    Email <br className="md:hidden"/> church@repliquebrisbane.org <br />
+                    Text or Call:  <br className="md:hidden"/> 0433 966 951 (Brett) <br />
                   </dt>
                 </div>
                 <div>
