@@ -21,13 +21,13 @@ export default function Home() {
                 </p>
               </div>
               <dl className="mt-10 grid grid-cols-2 gap-x-10 gap-y-6 sm:mt-16 sm:gap-x-24 sm:gap-y-10 sm:text-center lg:auto-cols-auto lg:grid-flow-col lg:grid-cols-none lg:justify-start lg:text-left">
-                <div>
+                {/* <div>
                   <dt className="font-mono text-sm text-blue-600">Giving</dt>
                   <dd className="mt-0.5 text-2xl font-semibold tracking-tight text-blue-900">Pay Id</dd>
                   <dt className="font-mono text-xs text-blue-600">
                     giving@repliquebrisbane.org
                   </dt>
-                </div>
+                </div> */}
                 <div>
                   <dt className="font-mono text-sm text-blue-600">You can reach us via</dt>
                   <dd className="mt-0.5 text-2xl font-semibold tracking-tight text-blue-900">Contact details</dd>
