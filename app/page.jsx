@@ -34,7 +34,7 @@ export default function Home() {
                   <dd className="mt-0.5 text-2xl font-semibold tracking-tight text-blue-900">Contact details</dd>
                   <dt className="font-mono text-xs text-blue-600">
                     Email <br className="md:hidden"/> church@repliquebrisbane.org <br />
-                    Text or Call:  <br className="md:hidden"/> 0433 966 951 (Brett) <br />
+                    Text or Call:  <br className="md:hidden"/> 0466 322 721 (Arvin) <br />
                   </dt>
                 </div>
                 <div>
