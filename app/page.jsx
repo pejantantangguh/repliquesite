@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import { JumboTron } from "./component/jumbotron";
 
 
 
@@ -9,6 +10,9 @@ export default function Home() {
               <h1 className="font-display text-3xl font-bold tracking-tighter primaryColor-1 sm:text-7xl">
                 Replique Church
               </h1>
+              
+              <JumboTron />
+
               <div className="text-lg mt-6 space-y-6 font-display md:text-2xl tracking-tight text-blue-900">
                 <p>Replique Ministry Brisbane is an Indonesian community church located East Brisbane</p>
                 <p>We believe that as a church, we should be the replica of God, created in His image who serve and create impacts to people around us.
@@ -45,7 +49,7 @@ export default function Home() {
                         <Image alt ="Instagram" className="inline" width={50} height={50} src="/instagram-logo.png" />
                       </Link>
                       <Link href="https://www.youtube.com/channel/UCojRVh7C8PUlg4cOUqkWcMg">
-                        <Image alt ="Youtube"className="inline" width={75} height={75} src="/Youtube-logo.png" />
+                        <Image alt ="Youtube" className="inline" width={75} height={75} src="/Youtube-logo.png" />
                       </Link>
                     </div>
                   </dd>
