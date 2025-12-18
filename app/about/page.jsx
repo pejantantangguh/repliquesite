@@ -23,26 +23,26 @@ const evangelist = [
       </div>)
   },
   {
-    picture: 'bebeAnita.jpg',
-    name: 'Bharata Gunawan (Bebe)',
+    picture: '',
+    name: 'Arvin Atmadja',
     title: 'Pastor',
     blurb:
       (
         <div>
           <p className="my-2">
-            Bharata Gunawan, also known as ‘Bebe’, is a man who is passionate on making an impact and strives to be a blessing to people around him.
+            He was born into a non-believing family in Jakarta, yet by the grace of God encountered the Gospel while studying in Melbourne in 1999. 
           </p>
           <p className="my-2">
-            By the grace of God, Bebe first encountered Jesus in 2001 during a winter camp that was held by this church. In 2005, he returned to Brisbane to study engineering. During this period, he came back to the church and since then he continues to be an active member of Replique Ministry, a place he now calls home.
+            Through the Indonesian Campus Ministry—founded by our Senior Pastor, Ps. Mindjaja Tani—he came to know Jesus Christ personally and soon devoted himself to serving God.
           </p>
           <p className="my-2">
-            In this closely knitted community, Bebe met Anita, his future wife. They had their wedding in 2012 and she is now the loving mother of two young children. Anita also encountered Jesus in Replique Ministry when she came to the church at the age of 17.
+            In Melbourne, he also met his wife, Felicia. They later married in Brisbane and have since been blessed with two children, continuing their shared journey of faith and ministry.
           </p>
           <p className="my-2">
-            In 2010, Bebe and Anita started a small coffee shop in Brisbane CBD. Through this experience, God has blessed them and taught them to practice their faith through the business. God has since guided them to be a blessing for everyone around them.
+            Together, their desire is to make a meaningful impact in people’s lives, leading them to become fully devoted disciples of Christ.
           </p>
           <p className="my-2">
-            In 2017, Bebe and Anita answered God’s calling to take the leadership baton from Ps Jaya and lead the ministry to a new phase. They pray and aim to change people’s lives through God’s love and the Gospel and to continue serving God and His church.
+            Through their testimony, they hope to reflect God’s transforming grace and inspire others to walk faithfully with Jesus.
           </p>
         </div>
       )
